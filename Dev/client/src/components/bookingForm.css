@@ -1,0 +1,15 @@
+.left-panel {
+    display: inline-block;
+    width: 50%;
+}
+.right-panel {
+    top: 0%;
+    display: inline-block;
+    width: 50%
+}
+
+.buttons{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 42%;
+}
